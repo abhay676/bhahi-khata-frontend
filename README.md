@@ -2,6 +2,8 @@
 
 An expense manager application that helps you to manage the all kind of your expenditures at one place.
 
+## Screenshot:
+![Home page](https://github.com/abhay676/bhahi-khata-frontend/blob/master/Image_README/Main.png)
 
 ### Tech used: 
 
@@ -9,4 +11,4 @@ An expense manager application that helps you to manage the all kind of your exp
 - React router
 - Redux
 - Redux-saga
-- UI library
+- Evergreen-UI
