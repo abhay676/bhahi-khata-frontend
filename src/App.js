@@ -1,9 +1,9 @@
 import React from "react";
-
+import Home from "./pages/Home/index"
 function App() {
   return (
     <div>
-      <h1>Connected....</h1>
+      <Home />
     </div>
   );
 }
